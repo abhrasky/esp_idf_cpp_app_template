@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/CMakeFiles/bootloader
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/CMakeFiles/bootloader.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/CMakeFiles/bootloader-complete.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/hevwp4b/esp/Basic/esp_idf_cpp_app_template/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
